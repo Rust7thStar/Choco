@@ -7,4 +7,3 @@ Set-ExecutionPolicy Bypass -Scope Process -Force; iex ((New-Object System.Net.We
 
 
 Choco install googlechrome adobereader -y
-#Test
