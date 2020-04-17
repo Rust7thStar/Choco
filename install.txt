@@ -1,1 +1,2 @@
-'googlechrome', 'adobereader'
+googlechrome
+adobereader
